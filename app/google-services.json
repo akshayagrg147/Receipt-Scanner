@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455529595843",
+    "project_id": "fir-mlkittextscanner",
+    "storage_bucket": "fir-mlkittextscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455529595843:android:efa94933bb46cb7b05f376",
+        "android_client_info": {
+          "package_name": "com.meetsuccess.firebasemlkittextscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455529595843-2uu8v2l24f5tej01dl3jddeu5oc43ief.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPTncXxywCFOxcSotwYnm6KNosH5paYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455529595843-2uu8v2l24f5tej01dl3jddeu5oc43ief.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
